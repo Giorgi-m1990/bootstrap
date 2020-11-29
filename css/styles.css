@@ -4,3 +4,30 @@ html, body {
     padding: 0;
     margin: 0;
 }
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    width: 1600px;
+    height: 178px;
+}
+
+.heart {
+    height: 39px;
+    width: 38px;
+    background-color: #EF5F60;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+menu > a {
+    text-decoration: none;
+    color: #4D4D4D;
+    font-size: 22px;
+    font-family: ;
+}
